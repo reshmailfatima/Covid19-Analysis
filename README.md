@@ -12,7 +12,7 @@ The analysis focuses on:
 - Understanding trends: Distribution of deaths, recoveries, and more
 
 ### Dataset
-The dataset used for this analysis is from [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report) 
+The dataset used for this analysis is from [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report). Dataset available in Repo too.
 
 ## Note: The dataset file (`country_wise_latest.csv`) should be placed in the root directory of the project if you plan to run it locally.
 
