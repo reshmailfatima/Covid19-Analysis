@@ -1,0 +1,5 @@
+# Required libraries for COVID-19 Data Analysis project
+
+pandas==1.5.3         # Data manipulation and analysis
+matplotlib==3.6.2     # Plotting library for creating static, animated, and interactive visualizations
+seaborn==0.12.2       # Statistical data visualization built on top of matplotlib
